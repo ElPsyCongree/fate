@@ -28,7 +28,7 @@
 
 「<ruby>問<rt>と</rt></ruby>おう。<ruby>貴<rt>あ</rt></ruby><ruby>方<rt>なた</rt></ruby>が、<ruby>私<rt>わたし</rt></ruby>のマスターか」
 
-<ruby>闇<rt>やみ</rt></ruby>を<ruby>弾<rt>はじ</rt></ruby>く<ruby>声<rt>こえ</rt></ruby>で、<ruby>彼<rt>か</rt></ruby><ruby>女<rt>のじょ</rt></ruby>は<ruby>言<rt>い</rt></ruby>った。
+<ruby>闇<rt>やみ</rt></ruby>を<ruby>弾<rt>はじ</rt></ruby>く<ruby>声<rt>ここえ</rt></ruby>で、<ruby>彼<rt>か</rt></ruby><ruby>女<rt>のじょ</rt></ruby>は<ruby>言<rt>い</rt></ruby>った。
 
 「<ruby>召<rt>しょう</rt></ruby><ruby>喚<rt>かん</rt></ruby>に<ruby>従<rt>したが</rt></ruby>い<ruby>参<rt>さん</rt></ruby><ruby>上<rt>じょう</rt></ruby>した。
 
